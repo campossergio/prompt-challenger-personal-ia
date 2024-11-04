@@ -8,6 +8,7 @@ baseado nas três variáveis abaixo:
 {{Biotipo}} = Endomorfo
 {{Periodização}} = 3 dias de treino
 {{Tipo}} = Funcional e  Cardio
+{{Nutrição}} = Biotipo
 
 # Regras
 
@@ -32,6 +33,12 @@ Regra 3: Tipo
 -	Peso Livre	Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.
 -	Cardio	Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
 -	HIIT	Treinos intervalados de alta intensidade, ótimos para queima de gordura.
+
+Regra 4: Nutrição
+
+- Crie uma dieta para Ectomrofo
+- Crie uma dieta para Mesomrofo
+- Crie uma dieta para Endomorfo
 
 # Resultado Esperado
 
